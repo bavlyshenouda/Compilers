@@ -1,0 +1,5 @@
+A,B,C
+s,t
+A
+A,B,C
+(A ,s ,C), (A ,t ,B), (B ,s ,C), (B ,t ,B), (C ,s ,C), (C ,t ,B)
